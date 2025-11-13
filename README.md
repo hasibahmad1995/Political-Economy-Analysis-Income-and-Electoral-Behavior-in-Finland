@@ -31,7 +31,9 @@ The project applies several statistical techniques:
 
 ## Project Structure
 ├── Political-Economy-Analysis-Income-and-Electoral-Behavior-in-Finland.R
+
 ├── Political-Economy-Analysis-Income-and-Electoral-Behavior-in-Finland.pdf
+
 └── README.md
 
 
